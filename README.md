@@ -4,11 +4,10 @@
 - Hey I am Octane I mostly Test Many OS, I have a TikTok With Currently 22k Followers.
 - I Love Gaming and i play the drums in my spare times.
 
-## Socials. 💭
-- [Discord](https://discord.gg/9yewYDWeDE)
+## Social Medias.
 - [Tiktok](https://www.tiktok.com/@octanecore)
 - [Youtube](https://www.youtube.com/channel/UCgVp6201Ai9LjKCiSpjcVKQ)
-
+- [Discord](https://discord.gg/9yewYDWeDE)
 
 ## My pc specs. 🖥️
 ## TOWER PC:
@@ -25,7 +24,7 @@
 #### Windows Based:
 - Windows XP (Experience: Alright)
 - Windows Vista (Experience: Bad)
-- Windows 7 (Experience: Good)
+- Windows 7 (Experience: Good)                                                                                            
 - Windows 8.1 (Experience: Fine)
 - Windows 10 (Experience: Good)
 - Windows 11 (Experience: Good)
