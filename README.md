@@ -11,7 +11,7 @@
 
 ## My pc specs. 🖥️
 ## TOWER PC:
-- OS: Windows 10 - Zorin Os 16 Pro
+- OS: Windows 10 
 - MAIN PC
 - CPU: Intel i5-8400 | 6 Cores, 4GHz 
 - Dedicated GPU: NVIDIA GeForce RTX 2060 6GB 
