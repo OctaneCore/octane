@@ -14,7 +14,7 @@
 - OS: Windows 10 - Zorin Os 16 Pro
 - MAIN PC
 - CPU: Intel i5-8400 | 6 Cores, 4GHz 
-- Dedicated GPU: NVIDIA GeForce GTX 1060 6GB 
+- Dedicated GPU: NVIDIA GeForce RTX 2060 6GB 
 - Memory: 32GB DDR4 2133 MHz
 - 1tb HHD - 128gb Partioned For Zorin OS
 - 1tb ssd
@@ -47,8 +47,6 @@
 - iOS (Experience: Good)
 
 ##### Trusted People:
-- [jornmann](https://github.com/jornmann)
-- [gabubu](https://github.com/GabubuAvailable)
 - [Tobo](https://github.com/ToboSK)
 
 ### Stuff I use:
