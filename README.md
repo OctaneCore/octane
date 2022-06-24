@@ -20,6 +20,12 @@
 - 1tb ssd
 - 256gb ssd - Windows 10
 
+## MacBook Pro 2011:
+- CPU: Intel Core i5
+- MEMORY: 16GB
+- STORAGE: 240GB SSD
+- GPU: Intel HD 3000 seires 512MB
+
 ## OS i have tried :
 #### Windows Based:
 - Windows XP (Experience: Alright)
