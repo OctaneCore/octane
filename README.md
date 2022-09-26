@@ -52,9 +52,9 @@
 - macOS (Experience: Good)
 - iOS (Experience: Good)
 
-##### Trusted People:
-- [Tobo](https://github.com/ToboSK)
-
 ### Stuff I use:
+Archive.org for iso files
+Ventoy For bootable usbs
 ##### You should checkout these:
 - [Ventoy](https://www.ventoy.net/en/index.html)
+- [Archive.org] (Archive.org) 
