@@ -5,7 +5,7 @@
 - I Love Gaming and i play the drums in my spare times.
 
 ## Social Medias.
-- [Tiktok](https://www.tiktok.com/@octanecore)
+- [Tiktok](https://www.tiktok.com/@evanboomboom)
 - [Youtube](https://www.youtube.com/channel/UCgVp6201Ai9LjKCiSpjcVKQ)
 - [Discord](https://discord.gg/9yewYDWeDE)
 
