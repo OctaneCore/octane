@@ -13,7 +13,7 @@
 ## TOWER PC:
 - OS: Windows 10 
 - MAIN PC
-- CPU: Intel i5-8400 | 6 Cores, 4GHz 
+- CPU: Intel i5-8400 - 6 Cores, 4GHz 
 - Dedicated GPU: NVIDIA GeForce RTX 2060 6GB 
 - Memory: 32GB DDR4 2133 MHz
 - 1tb HHD - 128gb Partioned For Zorin OS
